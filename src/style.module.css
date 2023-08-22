@@ -1,0 +1,27 @@
+.main_container{
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    padding: 25px;  
+    flex-direction: column;
+
+}
+
+.header{
+    flex: 2;
+  
+
+}
+
+.tv_show_detail{
+    flex: 4;
+
+
+}
+
+.recommended_tv_shows{
+    flex: 2;
+   
+
+}
+
